@@ -1,4 +1,4 @@
 patches/
-.gitignore
 *.o
 st
+*.c.rej
